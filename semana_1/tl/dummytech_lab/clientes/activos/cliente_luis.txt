@@ -1,0 +1,4 @@
+Nombre: Luis Sanchez
+Empresa: Supermercado Las Violetas
+Estado: activo
+Correo: luis@example.com

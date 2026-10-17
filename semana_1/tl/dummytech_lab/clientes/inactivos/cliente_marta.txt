@@ -1,0 +1,4 @@
+Nombre: Marta
+Empresa: Taller Los Turbos
+Estado: inactivo
+Correo: marta@example.com
